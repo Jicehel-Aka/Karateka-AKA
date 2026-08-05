@@ -1,0 +1,17 @@
+{
+  "schema_version": 1,
+  "id": "karateka",
+  "title": "Karateka",
+  "version": "0.1.0",
+  "platform": "Pokitto",
+  "port_level": "raw",
+  "author": "Press Play On Tape",
+  "porter": "AKA Port Studio",
+  "license": "voir LICENSE.original",
+  "copyright": "Press Play On Tape",
+  "source_repository": "https://github.com/Press-Play-On-Tape/Karateka_Pokitto",
+  "supports_save": false,
+  "supports_screenshot": true,
+  "save_directory": "/sdcard/karateka/",
+  "description": "Sauvez la princesse Sania de l'Empereur Akuma. Combattez au corps a corps sur votre chemin vers le chateau. Portage du jeu Pokitto original de Press Play On Tape (base sur le classique Karateka de Jordan Mechner)."
+}
